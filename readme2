@@ -1,0 +1,17 @@
+📷 Sample Inputs & Outputs
+
+This project includes several example images demonstrating how the Roadmap Creator processes different types of inputs.
+
+sampleinput1.png – Shows a typical user input containing phases, tasks, and structure for generating a roadmap.
+
+sampleout1-2.png – Displays the structured roadmap output for the above input, formatted into phases and subtasks.
+
+sampleout3.png – Another example output showing multiple phases and generated steps.
+
+sampleout2.png – Important case: Demonstrates the system’s safety behavior.
+
+If a user provides content related to hacking, illegal activities, or harmful intent, the agent automatically stops, refusing to generate a roadmap and returning a safety message.
+
+This ensures the tool cannot be misused for unethical or dangerous purposes.
+
+These examples highlight both the roadmap generator’s functionality and its built-in security safeguards.
