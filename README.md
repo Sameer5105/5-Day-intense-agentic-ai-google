@@ -33,6 +33,8 @@ This ensures that users can visualize their learning or project workflow from st
 
 Custom Input System: Users can define phases, tasks, topics, or skills they want to learn.
 
+Integrated safety mechanism that prevents roadmap generation when the input contains harmful, hacking-related, or illegal intent.
+
 Automatic Roadmap Generation: The tool formats the input into a clean, step-by-step roadmap.
 
 Flexible Output: Roadmaps can be generated as structured text, lists, or JSON-like formats.
